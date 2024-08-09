@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedd07&label=Profile%20views&color=0e75b6&style=flat" alt="syedd07" /> </p>
 
-- 🔭 I’m currently working on [beyond Science Magazine](beyondsciencemagazine.studio)
+- 🔭 I’m currently working on [beyond Science Magazine](https://beyondsciencemagazine.studio/)
 
 - 🌱 I’m currently learning **ReactJS**
 
