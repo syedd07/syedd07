@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [beyond Science Magazine](beyondsciencemagazine.studio)
 
-- 🌱 I’m currently learning **REACTJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **Front-end**
 
