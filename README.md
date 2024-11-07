@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Syed Yousuf Ali</h1>
 <h3 align="center">I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedd07&label=Profile%20views&color=0e75b6&style=flat" alt="syedd07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=facebook&label=Profile%20views&color=0e75b6&style=flat" alt="syedd07" /> </p>
 
 - 🔭 I’m currently working on [beyond Science Magazine](https://beyondsciencemagazine.studio/)
 
