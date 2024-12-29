@@ -3,15 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=github&label=Profile%20views&color=0e75b6&style=flat" alt="syedd07" /> </p>
 
-- 🔭 I’m currently working on [beyond Science Magazine](https://beyondsciencemagazine.studio/) & (www.aerocog.tech)
-
-- 🌱 I’m currently learning **DevOps**
-
-- 👯 I’m looking to collaborate on **Front-end**
+- 🔭 I’m currently working on
+- <a href=https://beyondsciencemagazine.studio/>BEYOND SC!ENCE MAG. </a>
+- <a href=https://nexcool.nourain.ae/>NexCool HVAC</a>
+- <a href=https://aerocog.tech/>Aerocog</a>
 
 - 👨‍💻 All of my projects are available at [sydali.me](sydali.me)
-
-- 📝 I regularly write articles on [https://beyondsciencemagazine.studio/articles/article](https://beyondsciencemagazine.studio/articles/article)
 
 - 📫 How to reach me **admin@sydali.me**
 
