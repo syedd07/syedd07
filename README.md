@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [sydali.me](sydali.me)
 
-- 📫 How to reach me **admin@sydali.me**
+- 📫 Want to reach me **admin@sydali.me**
 
 - 📄 Know about my experiences [https://resume.sydali.me/](https://resume.sydali.me/)
 
