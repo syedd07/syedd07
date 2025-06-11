@@ -5,13 +5,14 @@
 
 - 🔭 I’m currently working on
 - <a href=https://beyondsciencemagazine.studio/>BEYOND SC!ENCE MAG. </a>
+- <a href=https://puretextai.netlify.app>PureText Ai</a>
 - <a href=https://nexcool.nourain.ae/>NexCool HVAC</a>
 - <a href=https://aerocog.tech/>Aerocog</a>
 - <a href=https://nourain.ae>Al- Nourain</a>
 
-- 👨‍💻 All of my projects are available at [sydali.me](sydali.me)
+- 👨‍💻 All of my projects are available at [sydali.me](https://sydali.netlify.app/)
 
-- 📫 Want to reach me **admin@sydali.me**
+- 📫 Want to reach me **syedyusufali6626@gmail.com
 
 - 📄 Know about my experiences [https://resume.sydali.me/](https://resume.sydali.me/)
 
